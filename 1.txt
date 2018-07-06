@@ -1,0 +1,9 @@
+git clone 远程代码库地址
+type NUL > 1.txt   新建文件
+git status
+git status	
+git add .	添加本地全部文件	
+git commit -m "项目初始化"
+git config --global user.email "sunnyppdd@163.com"
+git config --global user.name"sunny"
+git push origin master   (提交数据到代码库)
